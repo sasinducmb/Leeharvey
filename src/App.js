@@ -11,6 +11,7 @@ import BrowserRouter from 'react-router-dom';
 
 import AOS from "aos";
 import "aos/dist/aos.css";
+import BackTop from './Components/BackTop';
 
 
 function App() {
@@ -34,13 +35,14 @@ function App() {
   return (
       <main className="overflow-x-hidden bg-white dark:bg-black text-black dark:text-white duration-300">
         {/* <Header /> */}
-        <Navbar />
+        <Navbar className="fixed" />
         <Hero />
         <AboutUs />
         <Services />
         <ContactUs />
         <GooglePlay />
         <Footer />
+        <BackTop/>
       </main>
   );
 }

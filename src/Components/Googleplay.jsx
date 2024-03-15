@@ -11,15 +11,38 @@ const GooglePlay = () => {
             data-aos="fade-up"
             className="text-2xl text-center sm:text-4xl font-semibold "
           >
-            Get Started with our app
+            Why Choose LeeHarvey?
+          </h1>
+
+          <h1
+            data-aos="fade-up"
+            className="text-2xl text-center sm:text-xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary "
+          >
+            Innovative Solutions
           </h1>
           <p
             data-aos="fade-up"
             data-aos-delay="300"
             className="text-center sm:px-20"
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
-            magnam harum accusantium odit?
+            We stay ahead of the curve, continuously exploring new technologies
+            and strategies. Customized Approach: Every client is unique, and so
+            are our solutions – tailored to meet your specific goals and
+            challenges.
+          </p>
+          <h1
+            data-aos="fade-up"
+            className="text-lg text-center sm:text-xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary "
+          >
+            Proven Results
+          </h1>
+          <p
+            data-aos="fade-up"
+            data-aos-delay="300"
+            className="text-center sm:px-20"
+          >
+            We measure our success by your success. Our focus is on delivering
+            measurable outcomes
           </p>
           <div className="flex flex-wrap justify-center gap-4 items-center">
             <a href="#" data-aos="fade-up" data-aos-delay="500">

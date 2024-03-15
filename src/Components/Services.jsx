@@ -3,7 +3,7 @@ import { SlSocialReddit } from 'react-icons/sl';
 
 function Services() {
   return (
-    <section class="duration-300 overflow-hidden pb-10" id='service'>
+    <section class="duration-300 overflow-hidden pb-10" id="service">
       <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6 relative">
         <div class="container py-3 px-4 pb-8">
           <h1
@@ -32,9 +32,10 @@ function Services() {
             </div>
             <h3 class="mb-2 text-xl font-bold dark:text-white">Social Media</h3>
             <p class="text-gray-500 dark:text-gray-400">
-              Plan it, create it, launch it. Collaborate seamlessly with all the
-              organization and hit your marketing goals every month with our
-              marketing plan.
+              "Elevate your online presence with our expert social media
+              management services. We craft engaging content, strategize your
+              posts, and grow your audience to build your brand's digital
+              footprint."
             </p>
           </div>
           <div>
@@ -48,10 +49,12 @@ function Services() {
                 <path d="M10.394 2.08a1 1 0 00-.788 0l-7 3a1 1 0 000 1.84L5.25 8.051a.999.999 0 01.356-.257l4-1.714a1 1 0 11.788 1.838L7.667 9.088l1.94.831a1 1 0 00.787 0l7-3a1 1 0 000-1.838l-7-3zM3.31 9.397L5 10.12v4.102a8.969 8.969 0 00-1.05-.174 1 1 0 01-.89-.89 11.115 11.115 0 01.25-3.762zM9.3 16.573A9.026 9.026 0 007 14.935v-3.957l1.818.78a3 3 0 002.364 0l5.508-2.361a11.026 11.026 0 01.25 3.762 1 1 0 01-.89.89 8.968 8.968 0 00-5.35 2.524 1 1 0 01-1.4 0zM6 18a1 1 0 001-1v-2.065a8.935 8.935 0 00-2-.712V17a1 1 0 001 1z"></path>
               </svg>
             </div>
-            <h3 class="mb-2 text-xl font-bold dark:text-white">Legal</h3>
+            <h3 class="mb-2 text-xl font-bold dark:text-white">Branding</h3>
             <p class="text-gray-500 dark:text-gray-400">
-              Protect your organization, devices and stay compliant with our
-              structured workflows and custom permissions made for you.
+              "Create a lasting impression with our comprehensive branding
+              solutions. From logo design to brand identity, we help define your
+              business's personality and core values, ensuring a consistent and
+              impactful brand image."
             </p>
           </div>
           <div>
@@ -71,11 +74,12 @@ function Services() {
               </svg>
             </div>
             <h3 class="mb-2 text-xl font-bold dark:text-white">
-              Business Automation
+              Product Shoot
             </h3>
             <p class="text-gray-500 dark:text-gray-400">
-              Auto-assign tasks, send Slack messages, and much more. Now power
-              up with hundreds of new templates to help you get started.
+              "Showcase your products in their best light with our professional
+              product photography services. High-quality, captivating images to
+              make your products stand out and attract your target customers."
             </p>
           </div>
           <div>
@@ -94,10 +98,14 @@ function Services() {
                 ></path>
               </svg>
             </div>
-            <h3 class="mb-2 text-xl font-bold dark:text-white">Finance</h3>
+            <h3 class="mb-2 text-xl font-bold dark:text-white">
+              Web Development
+            </h3>
             <p class="text-gray-500 dark:text-gray-400">
-              Audit-proof software built for critical financial operations like
-              month-end close and quarterly budgeting.
+              "Crafting bespoke, user-friendly websites tailored to your
+              business needs. Our web development services include responsive
+              design, e-commerce solutions, and custom integrations, all
+              optimized for performance and scalability."
             </p>
           </div>
           <div>
@@ -111,12 +119,12 @@ function Services() {
                 <path d="M7 3a1 1 0 000 2h6a1 1 0 100-2H7zM4 7a1 1 0 011-1h10a1 1 0 110 2H5a1 1 0 01-1-1zM2 11a2 2 0 012-2h12a2 2 0 012 2v4a2 2 0 01-2 2H4a2 2 0 01-2-2v-4z"></path>
               </svg>
             </div>
-            <h3 class="mb-2 text-xl font-bold dark:text-white">
-              Enterprise Design
-            </h3>
+            <h3 class="mb-2 text-xl font-bold dark:text-white">SEO/SMM</h3>
             <p class="text-gray-500 dark:text-gray-400">
-              Craft beautiful, delightful experiences for both marketing and
-              product with real cross-company collaboration.
+              "Boost your online visibility and engage effectively with your
+              audience. Our SEO and SMM services ensure your business ranks
+              higher in search engine results and maintains a dynamic presence
+              on social media platforms."
             </p>
           </div>
           <div>
@@ -134,10 +142,12 @@ function Services() {
                 ></path>
               </svg>
             </div>
-            <h3 class="mb-2 text-xl font-bold dark:text-white">Operations</h3>
+            <h3 class="mb-2 text-xl font-bold dark:text-white">UI/UX Design</h3>
             <p class="text-gray-500 dark:text-gray-400">
-              Keep your company’s lights on with customizable, iterative, and
-              structured workflows built for all efficient teams and individual.
+              "Designing intuitive and aesthetically pleasing user interfaces
+              that enhance user experience. Our UI/UX design services focus on
+              creating seamless, user-friendly digital experiences for your
+              customers."
             </p>
           </div>
         </div>

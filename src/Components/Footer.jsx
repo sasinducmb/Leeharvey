@@ -34,11 +34,12 @@ const Footer = () => {
             {/* company Details */}
             <div className="py-8 px-4">
               <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3">
-                Metaverse
+                LeeHarvey
               </h1>
               <p className="text-sm">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Repellat dolor illum a aut iste expedita.
+                Forward-thinking digital marketing agency where creativity meets
+                technology.<br></br>Our team is driven by a passion for
+                delivering cutting-edge solutions in the digital world.
               </p>
               <br />
 
@@ -46,7 +47,7 @@ const Footer = () => {
               <div>
                 <div className="flex items-center gap-3">
                   <FaLocationArrow />
-                  <p>Noida, Uttar Pradesh</p>
+                  <p>No 1 High Street , London, United Kingdom</p>
                 </div>
                 <div className="flex items-center gap-3">
                   <FaMobileAlt />
@@ -72,7 +73,7 @@ const Footer = () => {
             <div className="grid grid-cols-2 sm:grid-cols-3 col-span-2 md:pl-10">
               <div>
                 <div className="py-8 px-4">
-                  <h1 className="text-xl font-bold mb-3 ">Quick Links</h1>
+                  <h1 className="text-xl font-bold mb-3 ">Location</h1>
                   <ul className="space-y-3">
                     {FooterLinks.map((link) => (
                       <li

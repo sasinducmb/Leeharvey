@@ -1,6 +1,6 @@
 import React from 'react';
 import HeroPng from '../assets/Lines.png';
-import { BiPlayCircle } from 'react-icons/bi';
+
 
 const Hero = ({ togglePlay }) => {
   return (
@@ -17,9 +17,12 @@ const Hero = ({ togglePlay }) => {
                 </span>
               </h1>
               <p data-aos="fade-up" data-aos-delay="300">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ab
-                molestias quia exercitationem ex inventore labore beatae cumque
-                et quaerat voluptas?
+                Welcome to LeeHarvey, a forward-thinking digital marketing
+                agency where creativity meets technology. Established in [Year],
+                our team is driven by a passion for delivering cutting-edge
+                solutions in the digital world. We specialize in utilizing the
+                React framework to build dynamic, responsive websites and
+                applications, ensuring a seamless user experience.
               </p>
               <div className="flex gap-6">
                 <button
@@ -37,13 +40,12 @@ const Hero = ({ togglePlay }) => {
               data-aos-offset="0"
               className="order-1 sm:order-2"
             >
-              <img src={HeroPng} alt="" className=""/>
+              <img src={HeroPng} alt="" className="" />
             </div>
           </div>
 
           {/* Animated Blob */}
           <div className="h-[300px] w-[300px] bg-gradient-to-r from-primary to-secondary rounded-full absolute top-0 left-0 blur-3xl animated-wrapper"></div>
-        
         </div>
       </div>
     </>

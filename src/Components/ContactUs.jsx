@@ -9,10 +9,7 @@ import { IoMailOutline } from 'react-icons/io5';
 
 const ContactUs = () => {
   return (
-    <section
-      class="duration-300 overflow-hidden p-6"
-      id="contact"
-    >
+    <section class="duration-300 overflow-hidden p-6" id="contact">
       <h1
         data-aos="zoom-in"
         className="text-2xl sm:text-4xl font-bold max-w-[650px] mx-auto text-center font-curcise mt-4"
@@ -34,8 +31,6 @@ const ContactUs = () => {
                 class="px-2 py-3 dark:bg-black dark:text w-full text-sm border-b-2 focus:border-[#333] outline-none"
               />
               <input
-
-              
                 type="number"
                 placeholder="Phone No."
                 class="px-2 py-3  dark:bg-black dark:text w-full text-sm border-b-2 focus:border-[#333] outline-none"
@@ -78,7 +73,7 @@ const ContactUs = () => {
             <li class="flex items-center hover:text-blue-500">
               <IoMailOutline size={20} />
               <a href="javascript:void(0)" class="text-current text-sm ml-3">
-                <strong>info@example.com</strong>
+                <strong>info@leeharvey.co.uk</strong>
               </a>
             </li>
             <li class="flex items-center text-current hover:text-blue-500">
@@ -93,13 +88,18 @@ const ContactUs = () => {
           <div class="bg-[#011c2b] rounded-lg p-6 max-lg:text-center">
             <h2 class="text-xl font-bold text-white">Contact Information</h2>
             <p class="text-sm text-gray-400 mt-3">
-              Have some big idea or brand to develop and need help?
+              Welcome to LeeHarvey, a forward-thinking digital marketing agency
+              where creativity meets technology. Established in [Year], our team
+              is driven by a passion for delivering cutting-edge solutions in
+              the digital world. We specialize in utilizing the React framework
+              to build dynamic, responsive websites and applications, ensuring a
+              seamless user experience.
             </p>
             <ul class="mt-16 space-y-10">
               <li class="flex items-center max-lg:justify-center">
                 <IoMailOutline size={25} />
                 <a href="javascript:void(0)" class="text-white text-sm ml-3">
-                  <strong>info@example.com</strong>
+                  <strong>info@leeharvey.co.uk</strong>
                 </a>
               </li>
               <li class="flex items-center max-lg:justify-center">
