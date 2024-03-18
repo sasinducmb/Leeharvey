@@ -85,7 +85,7 @@ const ContactUs = () => {
           </ul>
         </div>
         <div class="z-10 relative h-full max-md:min-h-[350px]">
-          <div class="bg-[#011c2b] rounded-lg p-6 max-lg:text-center">
+          <div class="bg-[#011c2b] rounded-lg p-6 max-lg:text-center ">
             <h2 class="text-xl font-bold text-white">Contact Information</h2>
             <p class="text-sm text-gray-400 mt-3">
               Welcome to LeeHarvey, a forward-thinking digital marketing agency
@@ -97,19 +97,19 @@ const ContactUs = () => {
             </p>
             <ul class="mt-16 space-y-10">
               <li class="flex items-center max-lg:justify-center">
-                <IoMailOutline size={25} />
+                <IoMailOutline size={25} className="text-white" />
                 <a href="javascript:void(0)" class="text-white text-sm ml-3">
                   <strong>info@leeharvey.co.uk</strong>
                 </a>
               </li>
               <li class="flex items-center max-lg:justify-center">
-                <BsTelephone size={25} />
+                <BsTelephone size={25} className="text-white" />
                 <a href="javascript:void(0)" class="text-white text-sm ml-3">
                   <strong>+158 996 888</strong>
                 </a>
               </li>
               <li class="flex items-center max-lg:justify-center">
-                <IoLocationOutline size={25} />
+                <IoLocationOutline size={25} className="text-white" />
                 <a href="javascript:void(0)" class="text-white text-sm ml-3">
                   <strong>123 Street 256 House</strong>
                 </a>
@@ -118,17 +118,17 @@ const ContactUs = () => {
             <ul class="flex max-lg:justify-center mt-16 space-x-4">
               <li class="bg-gray-800 hover:bg-gray-900 h-10 w-10 rounded-full flex items-center justify-center shrink-0">
                 <a href="javascript:void(0)">
-                  <FaFacebookSquare size={25} />
+                  <FaFacebookSquare size={25} className="text-white" />
                 </a>
               </li>
               <li class="bg-gray-800 hover:bg-gray-900 h-10 w-10 rounded-full flex items-center justify-center shrink-0">
                 <a href="javascript:void(0)">
-                  <IoLogoInstagram size={25} />
+                  <IoLogoInstagram size={25} className="text-white" />
                 </a>
               </li>
               <li class="bg-gray-800 hover:bg-gray-900 h-10 w-10 rounded-full flex items-center justify-center shrink-0">
                 <a href="javascript:void(0)">
-                  <RxLinkedinLogo size={25} />
+                  <RxLinkedinLogo size={25} className="text-white" />
                 </a>
               </li>
             </ul>

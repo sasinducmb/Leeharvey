@@ -24,7 +24,7 @@ const DarkMode = () => {
       {theme === 'dark' ? (
         <BiSolidSun
           className="text-2xl cursor-pointer"
-          onClick={() => setTheme('light')}
+          onClick={() => setTheme('dark')}
         />
       ) : (
         <BiSolidMoon
