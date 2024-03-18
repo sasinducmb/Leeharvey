@@ -23,7 +23,7 @@ const AboutUs = () => {
               <p
                 data-aos="fade-up"
                 data-aos-delay="600"
-                class="mb-4 p-3 text-xl sm:text-sm"
+                class="mb-4 p-3 text-xl sm:text-sm text-justify"
               >
                 React Development: Our skilled developers are adept in the React
                 framework, crafting interactive and efficient web applications
@@ -46,7 +46,7 @@ const AboutUs = () => {
               <p
                 data-aos="fade-up"
                 data-aos-delay="600"
-                class="mb-4 p-3 text-xl sm:text-sm"
+                class="mb-4 p-3 text-xl sm:text-sm text-justify"
               >
                 [Name], Founder & CEO: With a background in [relevant field],
                 [Name] brings a wealth of knowledge and a visionary approach to
@@ -64,7 +64,7 @@ const AboutUs = () => {
               <p
                 data-aos="fade-up"
                 data-aos-delay="600"
-                class="mb-4 p-3 text-xl sm:text-sm"
+                class="mb-4 p-3 text-xl sm:text-sm text-justify"
               >
                 A group of enthusiastic and talented React developers, dedicated
                 to building responsive, user-friendly digital solutions.
@@ -79,7 +79,7 @@ const AboutUs = () => {
               <p
                 data-aos="fade-up"
                 data-aos-delay="600"
-                class="mb-4 p-3 text-xl sm:text-sm"
+                class="mb-4 p-3 text-xl sm:text-sm text-justify"
               >
                 A creative and strategic bunch, skilled in various aspects of
                 digital marketing from SEO to social media engagement.

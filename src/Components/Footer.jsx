@@ -36,7 +36,7 @@ const Footer = () => {
               <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3">
                 LeeHarvey
               </h1>
-              <p className="text-sm">
+              <p className="text-sm text-justify">
                 Forward-thinking digital marketing agency where creativity meets
                 technology.<br></br>Our team is driven by a passion for
                 delivering cutting-edge solutions in the digital world.

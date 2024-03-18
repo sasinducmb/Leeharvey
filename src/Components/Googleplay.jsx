@@ -23,7 +23,7 @@ const GooglePlay = () => {
           <p
             data-aos="fade-up"
             data-aos-delay="300"
-            className="text-center sm:px-20"
+            className="text-center sm:px-20 text-justify"
           >
             We stay ahead of the curve, continuously exploring new technologies
             and strategies. Customized Approach: Every client is unique, and so

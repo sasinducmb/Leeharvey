@@ -31,7 +31,7 @@ function Services() {
               <SlSocialReddit size={25} />
             </div>
             <h3 class="mb-2 text-xl font-bold dark:text-white">Social Media</h3>
-            <p class="text-gray-500 dark:text-gray-400">
+            <p class="text-gray-500 dark:text-gray-400 text-justify">
               "Elevate your online presence with our expert social media
               management services. We craft engaging content, strategize your
               posts, and grow your audience to build your brand's digital
@@ -50,7 +50,7 @@ function Services() {
               </svg>
             </div>
             <h3 class="mb-2 text-xl font-bold dark:text-white">Branding</h3>
-            <p class="text-gray-500 dark:text-gray-400">
+            <p class="text-gray-500 dark:text-gray-400 text-justify">
               "Create a lasting impression with our comprehensive branding
               solutions. From logo design to brand identity, we help define your
               business's personality and core values, ensuring a consistent and
@@ -76,7 +76,7 @@ function Services() {
             <h3 class="mb-2 text-xl font-bold dark:text-white">
               Product Shoot
             </h3>
-            <p class="text-gray-500 dark:text-gray-400">
+            <p class="text-gray-500 dark:text-gray-400 text-justify">
               "Showcase your products in their best light with our professional
               product photography services. High-quality, captivating images to
               make your products stand out and attract your target customers."
@@ -101,7 +101,7 @@ function Services() {
             <h3 class="mb-2 text-xl font-bold dark:text-white">
               Web Development
             </h3>
-            <p class="text-gray-500 dark:text-gray-400">
+            <p class="text-gray-500 dark:text-gray-400 text-justify">
               "Crafting bespoke, user-friendly websites tailored to your
               business needs. Our web development services include responsive
               design, e-commerce solutions, and custom integrations, all
@@ -120,7 +120,7 @@ function Services() {
               </svg>
             </div>
             <h3 class="mb-2 text-xl font-bold dark:text-white">SEO/SMM</h3>
-            <p class="text-gray-500 dark:text-gray-400">
+            <p class="text-gray-500 dark:text-gray-400 text-justify">
               "Boost your online visibility and engage effectively with your
               audience. Our SEO and SMM services ensure your business ranks
               higher in search engine results and maintains a dynamic presence
@@ -143,7 +143,7 @@ function Services() {
               </svg>
             </div>
             <h3 class="mb-2 text-xl font-bold dark:text-white">UI/UX Design</h3>
-            <p class="text-gray-500 dark:text-gray-400">
+            <p class="text-gray-500 dark:text-gray-400 text-justify">
               "Designing intuitive and aesthetically pleasing user interfaces
               that enhance user experience. Our UI/UX design services focus on
               creating seamless, user-friendly digital experiences for your

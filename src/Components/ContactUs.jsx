@@ -18,8 +18,8 @@ const ContactUs = () => {
       </h1>
       <div class="grid md:grid-cols-2 gap-16 items-center relative overflow-hidden p-10 shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] rounded-3xl max-w-6xl mx-auto duration-300 my-6 font-[sans-serif] before:absolute before:right-0 before:w-[300px] before:bg-blue-400 before:h-full max-md:before:hidden">
         <div>
-          <h2 class="text-3xl font-extrabold">Get In Touch</h2>
           <p class="text-sm text-gray-400 mt-3">
+            <h2 class="text-3xl font-extrabold ">Get In Touch</h2>
             Have a specific inquiry or looking to explore new opportunities? Our
             experienced team is ready to engage with you.
           </p>
@@ -87,7 +87,7 @@ const ContactUs = () => {
         <div class="z-10 relative h-full max-md:min-h-[350px]">
           <div class="bg-[#011c2b] rounded-lg p-6 max-lg:text-center ">
             <h2 class="text-xl font-bold text-white">Contact Information</h2>
-            <p class="text-sm text-gray-400 mt-3">
+            <p class="text-sm text-gray-400 mt-3 text-justify">
               Welcome to LeeHarvey, a forward-thinking digital marketing agency
               where creativity meets technology. Established in [Year], our team
               is driven by a passion for delivering cutting-edge solutions in

@@ -16,7 +16,11 @@ const Hero = ({ togglePlay }) => {
                   Digital Marketing
                 </span>
               </h1>
-              <p data-aos="fade-up" data-aos-delay="300">
+              <p
+                data-aos="fade-up"
+                data-aos-delay="300"
+                className="text-justify"
+              >
                 Welcome to LeeHarvey, a forward-thinking digital marketing
                 agency where creativity meets technology. Established in [Year],
                 our team is driven by a passion for delivering cutting-edge
