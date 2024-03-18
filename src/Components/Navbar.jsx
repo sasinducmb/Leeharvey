@@ -38,12 +38,12 @@ const Navbar = () => {
           <div className=" flex justify-between items-center">
             {/* logo section */}
             <div className=" flex items-center gap-4">
-              <img
+              {/* <img
                 src={Logo}
                 style={{ width: '80px', height: '45px' }}
                 alt=""
                 className="h-16"
-              />
+              /> */}
               <p className="text-3xl">
                 Lee<span className="font-bold">Harvay</span>
               </p>
