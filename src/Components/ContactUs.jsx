@@ -79,7 +79,7 @@ const ContactUs = () => {
             <li class="flex items-center text-current hover:text-blue-500">
               <BsTelephone size={20} />
               <a href="javascript:void(0)" class="text-current text-sm ml-3">
-                <strong>+158 996 888</strong>
+                <strong>+44 7941 332938</strong>
               </a>
             </li>
           </ul>
@@ -105,13 +105,13 @@ const ContactUs = () => {
               <li class="flex items-center max-lg:justify-center">
                 <BsTelephone size={25} className="text-white" />
                 <a href="javascript:void(0)" class="text-white text-sm ml-3">
-                  <strong>+158 996 888</strong>
+                  <strong>+44 7941 332938</strong>
                 </a>
               </li>
               <li class="flex items-center max-lg:justify-center">
                 <IoLocationOutline size={25} className="text-white" />
                 <a href="javascript:void(0)" class="text-white text-sm ml-3">
-                  <strong>123 Street 256 House</strong>
+                  <strong>No 1 High Street , London, United Kingdom</strong>
                 </a>
               </li>
             </ul>
