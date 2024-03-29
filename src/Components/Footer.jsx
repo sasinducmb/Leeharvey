@@ -37,9 +37,8 @@ const Footer = () => {
                 LeeHarvey
               </h1>
               <p className="text-sm text-justify">
-                Forward-thinking digital marketing agency where creativity meets
-                technology.<br></br>Our team is driven by a passion for
-                delivering cutting-edge solutions in the digital world.
+                "Connect with us today and discover how our dedicated team can
+                elevate your experience to new heights!"
               </p>
               <br />
 

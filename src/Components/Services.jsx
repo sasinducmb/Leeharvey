@@ -32,10 +32,10 @@ function Services() {
             </div>
             <h3 class="mb-2 text-xl font-bold dark:text-white">Social Media</h3>
             <p class="text-gray-500 dark:text-gray-400 text-justify">
-              "Elevate your online presence with our expert social media
-              management services. We craft engaging content, strategize your
-              posts, and grow your audience to build your brand's digital
-              footprint."
+              "Take advantage of our professional social media management
+              services to improve your internet visibility. To increase the
+              digital footprint of your brand, we create interesting material,
+              plan your postings, and expand your following."
             </p>
           </div>
           <div>
@@ -51,10 +51,11 @@ function Services() {
             </div>
             <h3 class="mb-2 text-xl font-bold dark:text-white">Branding</h3>
             <p class="text-gray-500 dark:text-gray-400 text-justify">
-              "Create a lasting impression with our comprehensive branding
-              solutions. From logo design to brand identity, we help define your
-              business's personality and core values, ensuring a consistent and
-              impactful brand image."
+              "Use our all-inclusive branding solutions to leave a memorable
+              impact. We assist in defining the character and essential
+              principles of your company, from logo creation to brand
+              identification, guaranteeing a recognisable and powerful brand
+              image."
             </p>
           </div>
           <div>
@@ -77,9 +78,9 @@ function Services() {
               Product Shoot
             </h3>
             <p class="text-gray-500 dark:text-gray-400 text-justify">
-              "Showcase your products in their best light with our professional
-              product photography services. High-quality, captivating images to
-              make your products stand out and attract your target customers."
+              "With our expert product photography services, you can highlight
+              your items in the best possible way. superior, eye-catching photos
+              to draw in your target market and help your items stand out."
             </p>
           </div>
           <div>
@@ -102,10 +103,10 @@ function Services() {
               Web Development
             </h3>
             <p class="text-gray-500 dark:text-gray-400 text-justify">
-              "Crafting bespoke, user-friendly websites tailored to your
-              business needs. Our web development services include responsive
-              design, e-commerce solutions, and custom integrations, all
-              optimized for performance and scalability."
+              "Creating custom, user-friendly websites that are suited to your
+              company's requirements. Our web development services include
+              bespoke integrations, e-commerce solutions, and responsive
+              design—all of which are scalable and performance-optimized."
             </p>
           </div>
           <div>
@@ -121,10 +122,10 @@ function Services() {
             </div>
             <h3 class="mb-2 text-xl font-bold dark:text-white">SEO/SMM</h3>
             <p class="text-gray-500 dark:text-gray-400 text-justify">
-              "Boost your online visibility and engage effectively with your
-              audience. Our SEO and SMM services ensure your business ranks
-              higher in search engine results and maintains a dynamic presence
-              on social media platforms."
+              "Increase your internet presence and interact with your audience
+              in a meaningful way. With the help of our SEO and SMM services,
+              you can be sure that your company appears higher in search engine
+              results and stays active on social media."
             </p>
           </div>
           <div>
@@ -144,10 +145,10 @@ function Services() {
             </div>
             <h3 class="mb-2 text-xl font-bold dark:text-white">UI/UX Design</h3>
             <p class="text-gray-500 dark:text-gray-400 text-justify">
-              "Designing intuitive and aesthetically pleasing user interfaces
-              that enhance user experience. Our UI/UX design services focus on
-              creating seamless, user-friendly digital experiences for your
-              customers."
+              "Creating user interfaces that are visually beautiful and
+              intuitive to improve the user experience. Our UI/UX design
+              services are concentrated on giving our clients smooth, intuitive
+              digital experiences."
             </p>
           </div>
         </div>

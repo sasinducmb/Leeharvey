@@ -25,16 +25,16 @@ const AboutUs = () => {
                 data-aos-delay="600"
                 class="mb-4 p-3 text-xl sm:text-sm text-justify"
               >
-                React Development: Our skilled developers are adept in the React
-                framework, crafting interactive and efficient web applications
-                and sites that stand out. SEO and SEM: We enhance your online
-                visibility through search engine optimization (SEO) and search
-                engine marketing (SEM) strategies, driving more traffic to your
-                site. Social Media Marketing: From content creation to community
-                management, our team helps you build a strong, engaging presence
-                on various social media platforms. Email Marketing: We create
-                targeted email campaigns that resonate with your audience,
-                turning leads into loyal customers. Meet Our Team.
+                Our talented developers create engaging and effective websites
+                and online apps using the React technology. SEO and SEM: By
+                using search engine marketing (SEM) and search engine
+                optimisation (SEO) techniques, we increase your website's online
+                exposure and increase traffic. Social media marketing: Our team
+                assists you in developing a powerful, interesting online
+                presence across a range of social media channels, from content
+                development to community management. Email marketing: We design
+                audience-specific email campaigns that convert prospects into
+                devoted clients. Get to Know Our Staff.
               </p>
               <h2
                 data-aos="fade-up"
@@ -48,11 +48,11 @@ const AboutUs = () => {
                 data-aos-delay="600"
                 class="mb-4 p-3 text-xl sm:text-sm text-justify"
               >
-                [Name], Founder & CEO: With a background in [relevant field],
-                [Name] brings a wealth of knowledge and a visionary approach to
-                digital marketing. [Name], CTO: Specializing in React and web
-                development, [Name] leads our tech team with innovation and
-                precision.
+                [Name], the founder and CEO: [Name] have a background in
+                [relevant subject] and approaches digital marketing with a depth
+                of expertise and vision. [Name], CTO: With a focus on web
+                development and React, [Name] inventively and precisely lead our
+                tech team.
               </p>
               <h2
                 data-aos="fade-up"
@@ -66,8 +66,9 @@ const AboutUs = () => {
                 data-aos-delay="600"
                 class="mb-4 p-3 text-xl sm:text-sm text-justify"
               >
-                A group of enthusiastic and talented React developers, dedicated
-                to building responsive, user-friendly digital solutions.
+                A team of experienced and driven React developers who are
+                committed to creating digital solutions that are easy to use and
+                responsive.
               </p>
               <h2
                 data-aos="fade-up"

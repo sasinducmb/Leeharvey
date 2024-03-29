@@ -88,12 +88,8 @@ const ContactUs = () => {
           <div class="bg-[#011c2b] rounded-lg p-6 max-lg:text-center ">
             <h2 class="text-xl font-bold text-white">Contact Information</h2>
             <p class="text-sm text-gray-400 mt-3 text-justify">
-              Welcome to LeeHarvey, a forward-thinking digital marketing agency
-              where creativity meets technology. Established in [Year], our team
-              is driven by a passion for delivering cutting-edge solutions in
-              the digital world. We specialize in utilizing the React framework
-              to build dynamic, responsive websites and applications, ensuring a
-              seamless user experience.
+              "Connect with us today and discover how our dedicated team can
+              elevate your experience to new heights!"
             </p>
             <ul class="mt-16 space-y-10">
               <li class="flex items-center max-lg:justify-center">
