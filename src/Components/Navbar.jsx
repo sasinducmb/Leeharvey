@@ -1,4 +1,4 @@
-import React,{useState} from 'react';
+import React, { useState } from 'react';
 import Logo from '../assets/Adidas.png';
 import { HiMenuAlt3 } from 'react-icons/hi';
 import { ImCross } from 'react-icons/im';
@@ -10,18 +10,27 @@ const NavLinks = [
     name: 'Home',
     link: '#',
   },
+
   {
     id: 2,
+    name: 'Blog',
+    link: 'http://localhost:3000',
+  },
+
+  {
+    id: 3,
     name: 'Service',
     link: '#service',
   },
+
   {
-    id: 3,
+    id: 4,
     name: 'About',
     link: '#about',
   },
+
   {
-    id: 4,
+    id: 5,
     name: 'Contact Us',
     link: '#contact',
   },
