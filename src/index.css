@@ -44,3 +44,7 @@
 .navbar.active{
   background: black ;
 }
+
+.h-screen {
+    height: 50vh;
+}
