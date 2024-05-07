@@ -14,7 +14,7 @@ const NavLinks = [
   {
     id: 2,
     name: 'Blog',
-    link: 'http://localhost:3000',
+    link: process.env.REACT_APP_API_URL,
   },
 
   {
